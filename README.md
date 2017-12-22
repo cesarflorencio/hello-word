@@ -1,3 +1,4 @@
 # hello-word
-O meu primeiro repositorio
+O meu primeiro repositorio.
+
 Eu sou amante da tecnologia
